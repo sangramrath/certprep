@@ -9,9 +9,10 @@ Identify requirements for target infrastructure
 * assess constraints imposed by subscription models and quota limits 
 * evaluatelicensing and pricing across SAP tiers
 * evaluate components, such as Azure Data Factory, Azure Data Lake, Microsoft Power BI, and SAP Cloud
-* specify a Microsoft support option for SAP on AzureDesign and implement identity and access for SAP workloads
+* specify a Microsoft support option for SAP on Azure
 
-Design and implement access control and authorization for SAP workloads
+Design and implement identity and access for SAP workloads
+* design and implement access control and authorization for SAP workloads
 * design and implement authentication for SAP workloads
 * manage access permissions to SAP systems
 
